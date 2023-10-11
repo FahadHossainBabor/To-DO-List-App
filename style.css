@@ -10,3 +10,25 @@
     background: linear-gradient(135deg , #153677, #4e085f);
     padding: 10px;
 }
+
+.todo-app{
+    width: 100%;
+    max-width: 540px;
+    background: white;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 15px;
+}
+
+.todo-app h1{
+    color: #002765;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.todo-app h1 img{
+    margin-left: 5px;
+    width: 35px;
+}
